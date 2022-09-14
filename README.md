@@ -10,4 +10,4 @@
  - Запрос к серверу с фотографиями через axios
 
  
-https://707404d.github.io/React-Photo-Collection/
+https://707404d.github.io/React-photo-collection/
